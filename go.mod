@@ -1,4 +1,4 @@
-module gitlab.com/tokend/nft-books/go-sdk
+module github.com/dl-nft-books/go-sdk
 
 go 1.18
 
